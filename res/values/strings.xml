@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Mp3PlayerActivity!</string>
+    <string name="app_name">Mp3Player播放器</string>
+    <string name="mp3list_update">更新列表</string>
+    <string name="mp3list_about">关于</string>
+
+</resources>
